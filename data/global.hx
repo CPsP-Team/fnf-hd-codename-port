@@ -1,6 +1,6 @@
 import hxvlc.util.Handle;
 import lime.graphics.Image;
-import funkin.backend.WindowUtils;
+import funkin.backend.utils.WindowUtils;
 
 function preStateSwitch() {
 	WindowUtils.winTitle = window.title = "Friday Night Funkin' HD";
@@ -10,3 +10,4 @@ function preStateSwitch() {
 }
 
 function destroy() WindowUtils.winTitle = window.title = "Friday Night Funkin' - Codename Engine";
+
