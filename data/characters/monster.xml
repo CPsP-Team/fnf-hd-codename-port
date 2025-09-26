@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="100" sprite="Monster_Assets" icon="monster" color="#F3FF6E">
+	<anim name="idle" anim="monster idle"/>
+	<anim name="singUP" anim="monster up note" x="-52" y="147"/>
+	<anim name="singRIGHT" anim="Monster left note" x="-66" y="6"/>
+	<anim name="singLEFT" anim="Monster Right note" x="-29" y="-8"/>
+	<anim name="singDOWN" anim="monster down" x="-104" y="-65"/>
+</character>
