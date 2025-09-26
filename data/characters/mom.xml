@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="HD_MOM" icon="mom" color="#D8558E">
-	<anim name="idle" anim="Mom Idle" x="-784" y="-570"/>
-	<anim name="singUP" anim="Mom Up Pose" x="-830" y="-567"/>
-	<anim name="singDOWN" anim="MOM DOWN POSE" x="-438" y="-287"/>
-	<anim name="singLEFT" anim="Mom Left Pose" x="-227" y="-91"/>
-	<anim name="singRIGHT" anim="Mom Pose Left" x="-496" y="-148"/>
-</character>

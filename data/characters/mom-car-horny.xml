@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="momCar_Horny" camx="-500" icon="mom" color="#D8558E">
+	<anim name="idle" anim="Mom Idle"/>
+	<anim name="singUP" anim="Mom Up Pose" x="13" y="106"/>
+	<anim name="singDOWN" anim="MOM DOWN POSE" x="26" y="-221"/>
+	<anim name="singLEFT" anim="Mom Left Pose" x="214" y="35"/>
+	<anim name="singRIGHT" anim="Mom Pose Left" x="-3" y="1"/>
+	<anim name="beam" anim="MOM BEAM"/>
+</character>
