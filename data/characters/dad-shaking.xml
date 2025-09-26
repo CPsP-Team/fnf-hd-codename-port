@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="SHAKEYDAD_assets" color="#AF66CE" holdTime="6.1">
+	<anim name="idle" anim="Dad idle dance" indices="2..12,0,1"/>
+	<anim name="singUP" anim="Dad Sing Note UP" x="8" y="20"/>
+	<anim name="singLEFT" anim="Dad Sing Note LEFT" x="58" y="-24"/>
+	<anim name="singRIGHT" anim="Dad Sing Note LEFT" x="58" y="-24"/>
+	<anim name="singDOWN" anim="Dad Sing Note DOWN" y="-55"/>
+</character>
