@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="DAD" icon="dad" color="#AF66CE" holdTime="6.1">
+<character sprite="DAD" camx="400" camy="600" icon="dad" color="#AF66CE" holdTime="6.1">
 	<anim name="idle" anim="Dad idle dance" x="-242" y="-646" indices="2..12,0,1"/>
 	<anim name="singUP" anim="Dad Sing note UP" x="-236" y="-636"/>
 	<anim name="singLEFT" anim="dad sing note LEFT" x="198" y="-160"/>
 	<anim name="singRIGHT" anim="Dad Sing Note right" x="128" y="-180"/>
-	<anim name="singDOWN" anim="Dad Sing Note DOWN" y="-55"/>
+	<anim name="singDOWN" anim="Dad Sing Note DOWN" x="135" y="-205"/>
 </character>
