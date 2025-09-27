@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="300" camx="-100" color="#B7D855">
+	<anim name="idle" anim="Pico Idle" x="-5" y="-55"/>
+	<anim name="singLEFT-cracked" anim="Pico Cracked Left" x="53" y="-99"/>
+	<anim name="singDOWN" anim="Pico Down" x="-27" y="-227"/>
+	<anim name="singUP" anim="Pico Up" x="-43" y="-83"/>
+	<anim name="singLEFT" anim="Pico Left" x="57" y="-99"/>
+		<anim name="shoot" anim="Pico Shoot" x="-5" y="-55"/>
+	<anim name="singUP-cracked" anim="Pico Cracked Up" x="-31" y="-31"/>
+	<anim name="singRIGHT-cracked" anim="Pico Cracked Right" x="-38" y="-82"/>
+	<anim name="singRIGHT" anim="Pico Right" x="-51" y="-84"/>
+	<anim name="singDOWN-cracked" anim="Pico Cracked Down" x="-38" y="-228"/>
+	<anim name="idle-cracked" anim="Pico Idle Cracked"/>
+	<anim name="shoot-cracked" anim="Pico Cracked Shoot"/>
+</character>
