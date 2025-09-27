@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosY="400" folder="stages/spooky/" startCamPosX="600" name="spooky">
+	<sprite x="-200" sprite="halloween_bg" y="-100" type="none" scale="1.05" name="bg"/>
+	<girlfriend x="393.326768634557" y="-77.17050866868"/>
+	<dad x="-2.08405976024173" y="-80.6791173754683"/>
+	<boyfriend x="765.469687180942" y="-97.0686076290223"/>
+	<sprite x="-310.326428105472" sprite="overlay" y="-231.045953771957" type="none" name="sprite_4"/>
+	<sprite x="-37.5689339079007" sprite="railing" y="-142.686416466438" type="none" name="sprite_5"/>
+</stage>
