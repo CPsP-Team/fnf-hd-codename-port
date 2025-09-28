@@ -12,7 +12,12 @@ function postCreate() {
     for (hudOld in [scoreTxt, accuracyTxt, missesTxt, splashHandler]) {
         hudOld.visible = false;
     }
+    healthBarBG.y = FlxG.height * 0.875;
+    healthBar.y = healthBarBG.y + 4;
     
+    for (icon in [iconP1, iconP2]) {
+    icon.y = healthBar.y - (icon.height / 2);
+    }
 }
 
 function update() {
