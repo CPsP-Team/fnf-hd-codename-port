@@ -1,0 +1,17 @@
+{
+	"customValues": {},
+	"color": "#923636",
+	"opponentModeAllowed": false,
+	"icon": "gf",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "breaking-point",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 90
+}
