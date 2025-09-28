@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/date/" name="date-night">
+	<sprite x="0" y="0" sprite="date_night" type="none" name="bg"/>
+	<dad/>
+	<boyfriend x="1250"/>
+	<girlfriend x="900" y="300"/>
+</stage>

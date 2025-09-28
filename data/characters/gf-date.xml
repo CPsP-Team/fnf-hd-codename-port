@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="290" sprite="gfDate" camx="-300" camy="-270" icon="gf" color="#A5004D">
+	<anim name="sad" anim="gf sad" x="235" y="272" loop="true" indices="0..12"/>
+	<anim name="laugh" anim="GF Laugh" x="237" y="268"/>
+	<anim name="danceRight" anim="GF Dancing Beat" x="289" y="284" indices="15..30"/>
+	<anim name="danceLeft" anim="GF Dancing Beat" x="289" y="284" indices="0..14"/>
+</character>
