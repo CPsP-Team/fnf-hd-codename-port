@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#00F7FF",
+	"opponentModeAllowed": false,
+	"icon": "bf",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "blueballed",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 120
+}
