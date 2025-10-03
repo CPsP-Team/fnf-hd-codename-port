@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/studio/" name="studio" zoom="0.9">
+	<sprite x="605" sprite="studioRemix" y="67" name="sprite_3"/>
+	<sprite x="1803" sprite="momRemix" y="173" name="sprite_5"/>
+	<sprite x="1649.28763833672" sprite="chairStudio" y="492.287638336718" type="none" name="sprite_4"/>
+	<dad x="-1756.15530238979" y="-1402.60190901809"/>
+	<boyfriend x="1638.67473690202" y="35.8109115948878"/>
+	<girlfriend scalex="0.980193087361722" x="-1768.02503620532" y="-1175.8254784631"/>
+	<sprite x="962" sprite="gfRemix" y="339" name="sprite_7"/>
+	<sprite x="580" sprite="impRemix" y="156" name="sprite_6"/>
+</stage>
